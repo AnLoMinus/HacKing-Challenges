@@ -2,7 +2,7 @@
 
 ---
 
-# pick a vulnerability to learn about
+# Pick a Vulnerability to Learn about
 - [ ] [sql injection](https://www.hacksplaining.com/exercises/sql-injection)  
 - [ ] [cross-site scripting](https://www.hacksplaining.com/exercises/xss-stored)
 - [ ] [command execution](https://www.hacksplaining.com/exercises/command-execution)
@@ -22,7 +22,7 @@
 
 ---
 
-# sign up for free to access even more...
+# Sign up for free to Access even more...
 - [ ] [directory traversal]()
 - [ ] [dom-based xss]()
 - [ ] [broken access control]()
