@@ -2,6 +2,6 @@
 
 ---
 
-- [HacksPlanning](https://www.hacksplaining.com/)
-  - Anlominus ~> [HacksPlanning](./HacksPlanning)
+- [HacksPlaining](https://www.hacksplaining.com/)
+  - Anlominus ~> [HacksPlaining](./HacksPlaining)
 
